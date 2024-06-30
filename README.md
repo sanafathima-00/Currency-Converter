@@ -9,4 +9,10 @@ This project is a currency converter web application built primarily using JavaS
 - Utilizes APIs for real-time exchange rates.
 - Includes user-friendly interface with responsive design.
 
+## Files
+- **Currency.html:** Provides the structure for the web app.
+- **Currency.css:** Styles the app to make it visually appealing.
+- **Currency.js:** Handles API requests and dynamically updates content.
+- **codes.js:** Contains the country code and currency code of various countries.
+
 Feel free to contribute to this project! 
